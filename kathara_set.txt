@@ -26,7 +26,7 @@ ping 200.1.1.7
 arp -n
 
 //on host device
-kathara lconfig -n wireshark -add C
+kathara lconfig -n wireshark --add C
 
 browswer
 localhost:3000
